@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/arfan757/leetcode/tree/master/0007-reverse-integer) |
 | [0509-fibonacci-number](https://github.com/arfan757/leetcode/tree/master/0509-fibonacci-number) |
+| [2652-sum-multiples](https://github.com/arfan757/leetcode/tree/master/2652-sum-multiples) |
 ## Bit Manipulation
 |  |
 | ------- |
