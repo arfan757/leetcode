@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/arfan757/leetcode/tree/master/0007-reverse-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/arfan757/leetcode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
