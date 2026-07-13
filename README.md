@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/arfan757/leetcode/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/arfan757/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/arfan757/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/arfan757/leetcode/tree/master/0509-fibonacci-number) |
 | [2652-sum-multiples](https://github.com/arfan757/leetcode/tree/master/2652-sum-multiples) |
 ## Bit Manipulation
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/arfan757/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/arfan757/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/arfan757/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
