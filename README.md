@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arfan757/leetcode/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/arfan757/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
