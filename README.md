@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/arfan757/leetcode/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/arfan757/leetcode/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/arfan757/leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Dynamic Programming
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/arfan757/leetcode/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/arfan757/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
