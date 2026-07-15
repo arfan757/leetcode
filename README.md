@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arfan757/leetcode/tree/master/0014-longest-common-prefix) |
+| [1207-unique-number-of-occurrences](https://github.com/arfan757/leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## String
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/arfan757/leetcode/tree/master/0191-number-of-1-bits) |
+## Hash Table
+|  |
+| ------- |
+| [1207-unique-number-of-occurrences](https://github.com/arfan757/leetcode/tree/master/1207-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->
