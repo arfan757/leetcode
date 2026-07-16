@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/arfan757/leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/arfan757/leetcode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/arfan757/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/arfan757/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/arfan757/leetcode/tree/master/0342-power-of-four) |
