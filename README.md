@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arfan757/leetcode/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/arfan757/leetcode/tree/master/0217-contains-duplicate) |
+| [0704-binary-search](https://github.com/arfan757/leetcode/tree/master/0704-binary-search) |
 | [1207-unique-number-of-occurrences](https://github.com/arfan757/leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## String
 |  |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/arfan757/leetcode/tree/master/0217-contains-duplicate) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/arfan757/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
