@@ -13,7 +13,13 @@ public:
                 mx = nums[i];
             }
         }
-
-        return gcd(mx,mn);
+        
+        while(mn!=0){
+            int rem = mx % mn;
+            mx = mn;
+            mn = rem;
+        }
+        return mx;
+        //return gcd(mx,mn);
     }
 };
