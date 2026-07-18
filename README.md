@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/arfan757/leetcode/tree/master/0704-binary-search) |
 | [1207-unique-number-of-occurrences](https://github.com/arfan757/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/arfan757/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2401-longest-nice-subarray](https://github.com/arfan757/leetcode/tree/master/2401-longest-nice-subarray) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/arfan757/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/arfan757/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## String
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/arfan757/leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/arfan757/leetcode/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/arfan757/leetcode/tree/master/1009-complement-of-base-10-integer) |
+| [2401-longest-nice-subarray](https://github.com/arfan757/leetcode/tree/master/2401-longest-nice-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/arfan757/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [2401-longest-nice-subarray](https://github.com/arfan757/leetcode/tree/master/2401-longest-nice-subarray) |
 <!---LeetCode Topics End-->
