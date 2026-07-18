@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/arfan757/leetcode/tree/master/0704-binary-search) |
 | [1207-unique-number-of-occurrences](https://github.com/arfan757/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/arfan757/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arfan757/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2401-longest-nice-subarray](https://github.com/arfan757/leetcode/tree/master/2401-longest-nice-subarray) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/arfan757/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/arfan757/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -94,5 +95,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arfan757/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2401-longest-nice-subarray](https://github.com/arfan757/leetcode/tree/master/2401-longest-nice-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arfan757/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
