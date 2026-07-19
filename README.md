@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/arfan757/leetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arfan757/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2652-sum-multiples](https://github.com/arfan757/leetcode/tree/master/2652-sum-multiples) |
+| [3492-maximum-containers-on-a-ship](https://github.com/arfan757/leetcode/tree/master/3492-maximum-containers-on-a-ship) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arfan757/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/arfan757/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Bit Manipulation
