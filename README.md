@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-longest-nice-subarray](https://github.com/arfan757/leetcode/tree/master/2401-longest-nice-subarray) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/arfan757/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/arfan757/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/arfan757/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/arfan757/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2652-sum-multiples](https://github.com/arfan757/leetcode/tree/master/2652-sum-multiples) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arfan757/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/arfan757/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
